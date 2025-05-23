@@ -7,19 +7,18 @@ A web-based application to efficiently track and manage personal expenses. This 
 - **Categorization**: Organize expenses into predefined or custom categories.  
 - **Visual Analytics**: Dynamic charts (pie and bar graphs) for spending insights.  
 - **Budget Tracking**: Set monthly budgets and receive alerts for overspending.  
-- **Data Export**: Export expense data in CSV or PDF format for record-keeping.  
 - **Responsive Design**: Optimized for desktop and mobile devices.  
 
 ## Tech Stack  
-- **Frontend**: [Specify technologies, e.g., React, HTML, CSS, Bootstrap]  
-- **Backend**: [Specify technologies, e.g., Django, Flask, Node.js]  
-- **Database**: [Specify database, e.g., MySQL, PostgreSQL, MongoDB]  
-- **Other Tools**: [Specify, e.g., Chart.js for graphs, REST APIs]  
+- **Frontend**: [ReactJS, TailwindCSS]  
+- **Backend**: [Node.js]  
+- **Database**: [MongoDB]  
+- **Other Tools**: [Chart.js for graphs, REST APIs]  
 
 ## Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/adiraj7280/ExpenseTracker.git
+   git clone https://github.com/AyushBalyan/ExpenseTracker-V2.git
 2. Navigate to the project directory
 3. Install dependencies
 4. Run the application
